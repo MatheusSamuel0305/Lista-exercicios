@@ -1,0 +1,14 @@
+C:\Users\Matheus\source\repos\FirstProject\bin\Debug\net8.0\FirstProject.exe
+C:\Users\Matheus\source\repos\FirstProject\bin\Debug\net8.0\FirstProject.deps.json
+C:\Users\Matheus\source\repos\FirstProject\bin\Debug\net8.0\FirstProject.runtimeconfig.json
+C:\Users\Matheus\source\repos\FirstProject\bin\Debug\net8.0\FirstProject.dll
+C:\Users\Matheus\source\repos\FirstProject\bin\Debug\net8.0\FirstProject.pdb
+C:\Users\Matheus\source\repos\FirstProject\obj\Debug\net8.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\FirstProject\obj\Debug\net8.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\FirstProject\obj\Debug\net8.0\FirstProject.dll
+C:\Users\Matheus\source\repos\FirstProject\obj\Debug\net8.0\refint\FirstProject.dll
+C:\Users\Matheus\source\repos\FirstProject\obj\Debug\net8.0\FirstProject.pdb
+C:\Users\Matheus\source\repos\FirstProject\obj\Debug\net8.0\FirstProject.genruntimeconfig.cache
+C:\Users\Matheus\source\repos\FirstProject\obj\Debug\net8.0\ref\FirstProject.dll
