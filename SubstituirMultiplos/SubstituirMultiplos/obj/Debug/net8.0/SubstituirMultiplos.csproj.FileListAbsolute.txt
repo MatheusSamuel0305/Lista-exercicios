@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\bin\Debug\net8.0\SubstituirMultiplos.exe
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\bin\Debug\net8.0\SubstituirMultiplos.deps.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\bin\Debug\net8.0\SubstituirMultiplos.runtimeconfig.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\bin\Debug\net8.0\SubstituirMultiplos.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\bin\Debug\net8.0\SubstituirMultiplos.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\obj\Debug\net8.0\SubstituirMultiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\obj\Debug\net8.0\SubstituirMultiplos.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\obj\Debug\net8.0\SubstituirMultiplos.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\obj\Debug\net8.0\SubstituirMultiplos.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\obj\Debug\net8.0\SubstituirMultiplos.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\obj\Debug\net8.0\refint\SubstituirMultiplos.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\obj\Debug\net8.0\SubstituirMultiplos.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\obj\Debug\net8.0\SubstituirMultiplos.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\SubstituirMultiplos\SubstituirMultiplos\obj\Debug\net8.0\ref\SubstituirMultiplos.dll

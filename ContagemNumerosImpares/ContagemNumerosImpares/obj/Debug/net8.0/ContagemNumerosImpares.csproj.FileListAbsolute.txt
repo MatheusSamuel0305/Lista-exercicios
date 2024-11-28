@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\bin\Debug\net8.0\ContagemNumerosImpares.exe
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\bin\Debug\net8.0\ContagemNumerosImpares.deps.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\bin\Debug\net8.0\ContagemNumerosImpares.runtimeconfig.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\bin\Debug\net8.0\ContagemNumerosImpares.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\bin\Debug\net8.0\ContagemNumerosImpares.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\obj\Debug\net8.0\ContagemNumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\obj\Debug\net8.0\ContagemNumerosImpares.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\obj\Debug\net8.0\ContagemNumerosImpares.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\obj\Debug\net8.0\ContagemNumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\obj\Debug\net8.0\ContagemNumerosImpares.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\obj\Debug\net8.0\refint\ContagemNumerosImpares.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\obj\Debug\net8.0\ContagemNumerosImpares.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\obj\Debug\net8.0\ContagemNumerosImpares.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ContagemNumerosImpares\ContagemNumerosImpares\obj\Debug\net8.0\ref\ContagemNumerosImpares.dll

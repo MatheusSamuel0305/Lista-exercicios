@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\bin\Debug\net8.0\VolumeRetangulo.exe
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\bin\Debug\net8.0\VolumeRetangulo.deps.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\bin\Debug\net8.0\VolumeRetangulo.runtimeconfig.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\bin\Debug\net8.0\VolumeRetangulo.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\bin\Debug\net8.0\VolumeRetangulo.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\obj\Debug\net8.0\VolumeRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\obj\Debug\net8.0\VolumeRetangulo.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\obj\Debug\net8.0\VolumeRetangulo.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\obj\Debug\net8.0\VolumeRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\obj\Debug\net8.0\VolumeRetangulo.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\obj\Debug\net8.0\refint\VolumeRetangulo.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\obj\Debug\net8.0\VolumeRetangulo.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\obj\Debug\net8.0\VolumeRetangulo.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\VolumeRetangulo\VolumeRetangulo\obj\Debug\net8.0\ref\VolumeRetangulo.dll

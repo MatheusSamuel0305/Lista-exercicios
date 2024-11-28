@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\bin\Debug\net8.0\ConversaoFahrenheit_Celsius.exe
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\bin\Debug\net8.0\ConversaoFahrenheit_Celsius.deps.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\bin\Debug\net8.0\ConversaoFahrenheit_Celsius.runtimeconfig.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\bin\Debug\net8.0\ConversaoFahrenheit_Celsius.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\bin\Debug\net8.0\ConversaoFahrenheit_Celsius.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\obj\Debug\net8.0\ConversaoFahrenheit_Celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\obj\Debug\net8.0\ConversaoFahrenheit_Celsius.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\obj\Debug\net8.0\ConversaoFahrenheit_Celsius.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\obj\Debug\net8.0\ConversaoFahrenheit_Celsius.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\obj\Debug\net8.0\ConversaoFahrenheit_Celsius.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\obj\Debug\net8.0\refint\ConversaoFahrenheit_Celsius.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\obj\Debug\net8.0\ConversaoFahrenheit_Celsius.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\obj\Debug\net8.0\ConversaoFahrenheit_Celsius.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\ConversaoFahrenheit_Celsius\ConversaoFahrenheit_Celsius\obj\Debug\net8.0\ref\ConversaoFahrenheit_Celsius.dll

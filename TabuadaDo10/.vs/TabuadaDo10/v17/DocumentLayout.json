@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\OneDrive\\Meu Drive\\Estudo programa\u00E7\u00E3o\\C#\\TabuadaDo10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7EB06-CE4D-4259-BADA-ABEF793F5C30}|TabuadaDo10\\TabuadaDo10.csproj|c:\\users\\mathe\\onedrive\\meu drive\\estudo programa\u00E7\u00E3o\\c#\\tabuadado10\\tabuadado10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C7EB06-CE4D-4259-BADA-ABEF793F5C30}|TabuadaDo10\\TabuadaDo10.csproj|solutionrelative:tabuadado10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Meu Drive\\Estudo programa\u00E7\u00E3o\\C#\\TabuadaDo10\\TabuadaDo10\\Program.cs",
+              "RelativeDocumentMoniker": "TabuadaDo10\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Meu Drive\\Estudo programa\u00E7\u00E3o\\C#\\TabuadaDo10\\TabuadaDo10\\Program.cs",
+              "RelativeToolTip": "TabuadaDo10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T20:34:24.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

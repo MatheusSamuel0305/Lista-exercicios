@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\bin\Debug\net8.0\OrdenacaoDecrescente.exe
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\bin\Debug\net8.0\OrdenacaoDecrescente.deps.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\bin\Debug\net8.0\OrdenacaoDecrescente.runtimeconfig.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\bin\Debug\net8.0\OrdenacaoDecrescente.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\bin\Debug\net8.0\OrdenacaoDecrescente.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\obj\Debug\net8.0\OrdenacaoDecrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\obj\Debug\net8.0\OrdenacaoDecrescente.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\obj\Debug\net8.0\OrdenacaoDecrescente.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\obj\Debug\net8.0\OrdenacaoDecrescente.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\obj\Debug\net8.0\OrdenacaoDecrescente.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\obj\Debug\net8.0\refint\OrdenacaoDecrescente.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\obj\Debug\net8.0\OrdenacaoDecrescente.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\obj\Debug\net8.0\OrdenacaoDecrescente.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\OrdenacaoDecrescente\OrdenacaoDecrescente\obj\Debug\net8.0\ref\OrdenacaoDecrescente.dll

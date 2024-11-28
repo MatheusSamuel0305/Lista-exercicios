@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\bin\Debug\net8.0\TabuadaDo10.exe
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\bin\Debug\net8.0\TabuadaDo10.deps.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\bin\Debug\net8.0\TabuadaDo10.runtimeconfig.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\bin\Debug\net8.0\TabuadaDo10.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\bin\Debug\net8.0\TabuadaDo10.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\obj\Debug\net8.0\TabuadaDo10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\obj\Debug\net8.0\TabuadaDo10.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\obj\Debug\net8.0\TabuadaDo10.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\obj\Debug\net8.0\TabuadaDo10.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\obj\Debug\net8.0\TabuadaDo10.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\obj\Debug\net8.0\refint\TabuadaDo10.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\obj\Debug\net8.0\TabuadaDo10.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\obj\Debug\net8.0\TabuadaDo10.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\TabuadaDo10\TabuadaDo10\obj\Debug\net8.0\ref\TabuadaDo10.dll

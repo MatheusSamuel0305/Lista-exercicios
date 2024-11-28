@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\bin\Debug\net8.0\FatorialNumero.exe
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\bin\Debug\net8.0\FatorialNumero.deps.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\bin\Debug\net8.0\FatorialNumero.runtimeconfig.json
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\bin\Debug\net8.0\FatorialNumero.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\bin\Debug\net8.0\FatorialNumero.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\obj\Debug\net8.0\FatorialNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\obj\Debug\net8.0\FatorialNumero.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\obj\Debug\net8.0\FatorialNumero.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\obj\Debug\net8.0\FatorialNumero.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\obj\Debug\net8.0\FatorialNumero.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\obj\Debug\net8.0\refint\FatorialNumero.dll
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\obj\Debug\net8.0\FatorialNumero.pdb
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\obj\Debug\net8.0\FatorialNumero.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Meu Drive\Estudo programação\C#\FatorialNumero\FatorialNumero\obj\Debug\net8.0\ref\FatorialNumero.dll
